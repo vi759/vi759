@@ -124,6 +124,19 @@ https://github.com/vi759/job-market-analytics
 
 ---
 
+## Diamond Price Prediction
+
+his project is about predicting the price of diamonds using machine learning. 
+Different features of diamonds such as carat, cut, color, clarity, depth, and dimensions were used to train the model.
+
+Technologies 
+Python • Flask • Streamlit • ML 
+
+Repository
+https://github.com/vi759/Diamond-Price-Prediction
+
+---
+
 # 🏆 Certifications
 
 🎓 Programming with Python – Coding Ninjas  
