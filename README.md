@@ -1,16 +1,163 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Patati%20Yasaswi&fontAlign=50&fontAlignY=40&fontSize=50&desc=Data%20Science%20Student%20|%20Python%20Developer%20|%20Future%20AI%20Engineer&descAlign=50&descAlignY=60"/>
 
-<!--
-**vi759/vi759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vishnu Challagundla</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&width=700&lines=Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=patatiyasaswi&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+ASPIRING DATA SCIENTIST
+
+🎓 B.Tech **Computer Science** student  
+
+📍 Hyderabad, India  
+
+💡 Passionate about **Data Science, Analytics, and AI**
+
+📊 I love turning **raw data into insights,dashboards and working models**
+
+💻 Interested in
+
+• Machine Learning  
+• Data Analytics  
+• AI Applications  
+• Software Development  
+
+🌱 Currently learning
+
+• Advanced Data Science  
+• Machine Learning  
+• Data Engineering  
+
+*Learn -> Explore -> Build* 
+
+---
+
+# 🧠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+</p>
+
+### Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=patatiyasaswi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patatiyasaswi&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 💻 Featured Projects
+
+## Vehicle Tracking and Logging System
+
+Smart system that automatically tracks vehicle entry and exit using camera-based number plate detection and stores records in a database.
+
+Technologies 
+Python • Flask • OpenCV • EasyOCR • MySQL • HTML • CSS • JavaScript
+
+Repository
+https://github.com/PatatiYasaswi/vehicle-tracking-system
+
+---
+
+## 💼 Job Market Analytics
+
+Web scraping and data analysis project studying salary trends and company insights.
+
+Technologies
+Python • BeautifulSoup • Pandas • Power BI
+
+Repository
+https://github.com/PatatiYasaswi/job-market-analytics
+
+---
+
+# 🏆 Certifications
+
+🎓 Programming with Python – Coding Ninjas  
+
+🎓 SQL – Coding Ninjas 
+
+🎓 EDA - Innomatics 
+
+---
+
+# 🏅 Achievements
+
+🚀 Active in conducting and paticipating in hackathons and coding competitions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:vchallagundla57@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishnu-challagundla-334314204">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/vi759">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+ **"Turning data into insights and insights into impact."**
