@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Patati%20Yasaswi&fontAlign=50&fontAlignY=40&fontSize=50&desc=Data%20Science%20Student%20|%20Python%20Developer%20|%20Future%20AI%20Engineer&descAlign=50&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vishnu%20Challagundla&fontAlign=50&fontAlignY=40&fontSize=50&desc=Data%20Science%20Student%20|%20Python%20Developer%20|%20Future%20AI%20Engineer&descAlign=50&descAlignY=60"/>
 
 <h1 align="center">Hi 👋, I'm Vishnu Challagundla</h1>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=patatiyasaswi&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vishnuchallagundla&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ Technologies
 Python • Flask • OpenCV • EasyOCR • MySQL • HTML • CSS • JavaScript
 
 Repository
-https://github.com/PatatiYasaswi/vehicle-tracking-system
+https://github.com/vi759/vehicle-tracking-system
 
 ---
 
@@ -120,7 +120,7 @@ Technologies
 Python • BeautifulSoup • Pandas • Power BI
 
 Repository
-https://github.com/PatatiYasaswi/job-market-analytics
+https://github.com/vi759/job-market-analytics
 
 ---
 
