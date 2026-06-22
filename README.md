@@ -85,7 +85,7 @@ ASPIRING DATA SCIENTIST
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patatiyasaswi&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vi759&theme=tokyo-night"/>
 </p>
 
 ---
